@@ -19,7 +19,7 @@
 
 ---
 
-### 🤝 Социальные сети:
+### 🤝 Мои социальные сети:
 
   <div id="badges">
     <a href="https://t.me/@Yuri_ogorodnik" target="_blank">
@@ -32,7 +32,7 @@
 
 ---
 
-### 💻 Технологии:
+### 💻 Изучил технологии:
 
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" title="python" alt="python" width="40" height="40"/>&nbsp
@@ -44,7 +44,7 @@
 
 ---
 
-### 🛠 Инструменты:
+### 🛠 Владею инструментами:
 
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" title="pycharm" alt="pycharm" width="40" height="40"/>&nbsp;
@@ -59,7 +59,7 @@
 
 ---
 
-### ⚙️ GitHub статистика:
+### ⚙️ Моя GitHub статистика:
 
 <table>
   <tr>
