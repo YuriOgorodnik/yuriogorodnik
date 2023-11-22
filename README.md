@@ -15,7 +15,7 @@
 
 - :zap: Не останавливаюсь в своем обучении и саморазвитии!
 
-- :mailbox: Со мной можно связаться: [![Telegram Badge](https://img.shields.io/badge/-yuriogorodnik-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/@Yuri_ogorodnik) [![Mail Badge](https://img.shields.io/badge/-Mail-red?style=flat&logo=Mail&logoColor=white)](mailto:yuri.ogorodnik@mail.ru)
+- :mailbox: Со мной можно связаться: [![Telegram Badge](https://img.shields.io/badge/-yuriogorodnik-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/@Yuri_ogorodnik) [![Mail Badge](https://img.shields.io/badge/-mail-red?style=flat&logo=Mail&logoColor=white)](mailto:yuri.ogorodnik@mail.ru)
 
 ---
 
