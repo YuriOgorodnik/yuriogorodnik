@@ -4,14 +4,14 @@
 
 ### :man_technologist: Обо мне:
 
-Я начинающий Пайтон-разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. 
+Я начинающий Python-разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. 
 Мой путь в сферу IT начался с онлайн-университета Skypro, где я прошел множество интенсивов и примерил на себя практически все существующие направления, однако больше всего меня зацепила бэкенд-разработка! 
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-- :seedling: Завершил курсы по Пайтон-разработке в Skypro!
+- :seedling: Завершил курсы по Python-разработке в Skypro!
 
 - :zap: Не останавливаюсь в своем обучении и саморазвитии!
 
