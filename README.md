@@ -2,7 +2,7 @@
 
 ---
 
-### :man_technologist: Обо мне:
+### Обо мне:
 
 Я начинающий Python-разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. 
 Мой путь в сферу IT начался с онлайн-университета Skypro, где я прошел множество интенсивов и примерил на себя практически все существующие направления, однако больше всего меня зацепила бэкенд-разработка! 
@@ -15,7 +15,7 @@
 
 - :zap: Не останавливаюсь в своем обучении и саморазвитии!
 
-- :mailbox: Со мной можно связаться: [![Telegram Badge](https://img.shields.io/badge/-telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/@Yuri_ogorodnik) [![Gmail Badge](https://img.shields.io/badge/-gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:yuri.ogorodnik@gmail.com) [![Whatsapp Badge](https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white)](https://wa.me/375447693412)
+- Со мной можно связаться: [![Telegram Badge](https://img.shields.io/badge/-telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/@Yuri_ogorodnik) [![Gmail Badge](https://img.shields.io/badge/-gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:yuri.ogorodnik@gmail.com) [![Whatsapp Badge](https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white)](https://wa.me/375447693412)
 
 ---
 
