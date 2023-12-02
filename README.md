@@ -13,7 +13,7 @@
 
 - :seedling: Завершил курсы по Python-разработке в Skypro!
 
-- :zap: Не останавливаюсь в своем обучении и саморазвитии!
+- :zap: Не останавливаюсь в своем обучении и саморазвитии (stepik, youtube, codewars)!
 
 - Со мной можно связаться: [![Telegram Badge](https://img.shields.io/badge/-telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/@Yuri_ogorodnik) [![Gmail Badge](https://img.shields.io/badge/-gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:yuri.ogorodnik@gmail.com) [![Whatsapp Badge](https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white)](https://wa.me/375447693412)
 
